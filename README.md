@@ -16,7 +16,7 @@ https://data.world/datamil/ansur-ii-data-dictionary/workspace/file?filename=ANSU
 
 
 ## Run the project ⚙️
-The repository includes a Jupyter notebook which you can run on your local machine or use <a href="https://colab.research.google.com/drive/1KPlI8axdp3GSX3n58CyC6CRfuKLmIQRa?usp=sharing"> Google Colab.
+The repository includes a Jupyter notebook which you can run on your local machine or use this <a href="https://colab.research.google.com/drive/1KPlI8axdp3GSX3n58CyC6CRfuKLmIQRa?usp=sharing"> Google Colab link.
 
 
 ## Results 🪄
