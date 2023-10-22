@@ -15,7 +15,7 @@ https://data.world/datamil/ansur-ii-data-dictionary/workspace/file?filename=ANSU
 
     *i. Imported Libraries*
     
-    *ii. Ingested Data *
+    *ii. Ingested Data*
     
     *iii. Explored Data*
     
