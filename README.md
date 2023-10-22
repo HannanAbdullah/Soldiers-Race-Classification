@@ -9,7 +9,7 @@ https://data.world/datamil/ansur-ii-data-dictionary/workspace/file?filename=ANSU
 
 ---
 
-<p>In this project, I implemented ***Logistic Regression, Support Vector Machine, XGBoost, Random Forest*** algorithms. Also, I evaluated the success of the models with appropriate performance metrics. At the end, I choosed the most successful model and tried to enhance the scores with ***SMOTE*** make it ready to deploy. Furthermore, I used ***SHAP*** to explain how the best model I choosed works.</p>
+<p>In this project, I implemented <b>Logistic Regression, Support Vector Machine, XGBoost, Random Forest</b> algorithms. Also, I evaluated the success of the models with appropriate performance metrics. At the end, I choosed the most successful model and tried to enhance the scores with <b>SMOTE</b> make it ready to deploy. Furthermore, I used <b>SHAP</b> to explain how the best model I choosed works.</p>
 
 ## Used Libraries 📚
 - `numpy`- `pandas`- `matplotlib`- `seaborn` - `sklearn`- `scikitplot` - `xgboost` - `imblearn`- `shap`
