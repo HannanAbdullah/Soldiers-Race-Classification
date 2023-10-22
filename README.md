@@ -20,7 +20,7 @@ The repository includes a Jupyter notebook which you can run on your local machi
 
 
 ## Results 🪄
-(Images/Result.png)
+![Result](Result.png)
 
 The above image demonstrates that the tuned logistic regression model got good scores outperforming the other 3 tuned models (SVM, Random Forest, XGBoost).
 
