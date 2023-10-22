@@ -9,7 +9,34 @@ https://data.world/datamil/ansur-ii-data-dictionary/workspace/file?filename=ANSU
 
 ---
 
-<p>In this project, I implemented <b>Logistic Regression, Support Vector Machine, XGBoost, Random Forest</b> algorithms. Also, I evaluated the success of the models with appropriate performance metrics. At the end, I choosed the most successful model and tried to enhance the scores with <b>SMOTE</b> make it ready to deploy. Furthermore, I used <b>SHAP</b> to explain how the best model I choosed works.</p>
+## Tasks:⚙️
+#### 1. Exploratory Data Analysis (EDA)
+- Import Libraries, Load Dataset, Exploring Data
+
+    *i. Imported Libraries*
+    
+    *ii. Ingested Data *
+    
+    *iii. Explored Data*
+    
+    *iv. Outlier Detection*
+    
+    *v.  Dropped unnecessary features*
+
+#### 2. Data Preprocessing
+- Scale (if needed)
+- Separeted the data frame for evaluation purposes
+
+#### 3. Multi-class Classification
+- Imported libraries
+- Implemented SVM Classifer
+- Implemented Decision Tree Classifier
+- Implemented Random Forest Classifer
+- Implemented XGBoost Classifer
+- Compared The Models
+- Enhance the scores with SMOTE
+- Use SHAP to explain how the best model
+
 
 ## Used Libraries 📚
 - `numpy`- `pandas`- `matplotlib`- `seaborn` - `sklearn`- `scikitplot` - `xgboost` - `imblearn`- `shap`
